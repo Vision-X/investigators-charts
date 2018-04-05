@@ -55,8 +55,6 @@ const data = {
 }
 
 class LineChart extends Component {
-  displayName: 'LineExample'
-
   render() {
     return (
       <div>
