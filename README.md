@@ -8,8 +8,8 @@ Use a charting library to reflect how many students have graduated in the last 3
 
 1) Library used:
 
--- react-chart-js
+  -- react-chartjs-2
 
 1) Framework used:
 
--- React
+  -- React
